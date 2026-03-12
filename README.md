@@ -7,8 +7,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CSoP995ib/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamil-kulasingha-6128a8309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamilviranga2@gmail.com) 
 
-## 💻 Tech Stack
-HTML | CSS | JavaScript | React | React Native | Node.js | Python | MySQL | Git
 
 # 💻 Tech Stack:
 ## 🚀 Tech Stack
