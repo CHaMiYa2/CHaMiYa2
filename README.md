@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chamil Viranga</h1>
+<h3 align="center">🚀 Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+
+<p align="center">
+💻 BICT Undergraduate <br>
+🌱 Currently learning Full Stack Development & React Native <br>
+⚡ Interested in Web Development, Mobile Apps & Software Engineering
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
